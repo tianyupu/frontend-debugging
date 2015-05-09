@@ -1,0 +1,13 @@
+{
+  "name": "frontend-debugging",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tian Pu",
+  "license": "MIT",
+  "dependencies": {
+    "reveal.js": "^3.0.0"
+  }
+}
