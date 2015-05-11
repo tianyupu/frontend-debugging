@@ -1,2 +1,2 @@
-node_modules/* # installed npm modules
-*.log # npm debug logs
+*.log
+node_modules/
