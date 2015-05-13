@@ -134,8 +134,5 @@ debug (or even look at).
 [https://www.jsoneditoronline.org/](https://www.jsoneditoronline.org/)
 
 ---
-# 
-
----
 # Thank you!
 ## Questions?
