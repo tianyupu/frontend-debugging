@@ -1,1 +1,1 @@
-web: grunt slides --port=$PORT
+web: ./node_modules/.bin/grunt slides --port=$PORT
