@@ -1,5 +1,6 @@
 /* global module:false */
 module.exports = function (grunt) {
+	var port = grunt.option('port') || 8000;
 
   // Project configuration
   grunt.initConfig({
@@ -9,7 +10,7 @@ module.exports = function (grunt) {
       server: {
         options: {
           hostname: '0.0.0.0',
-          port: 8000,
+          port: port,
           base: 'src',
           open: true,
           livereload: true
